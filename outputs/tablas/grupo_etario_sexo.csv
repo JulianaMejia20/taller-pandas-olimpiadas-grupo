@@ -1,0 +1,9 @@
+grupo_etario,Sex,registros,pct_con_talla_peso,pct_sin_talla_peso,pct_con_medalla,pct_sin_medalla
+Menores,F,9336,86.21,13.79,9.5,90.5
+Menores,M,3172,70.65,29.35,9.21,90.79
+Jóvenes adultos,F,61889,90.9,9.1,16.08,83.92
+Jóvenes adultos,M,167728,76.86,23.14,14.97,85.03
+Mayores,F,2873,83.78,16.22,13.85,86.15
+Mayores,M,16644,49.88,50.12,14.47,85.53
+Sin edad,F,424,4.25,95.75,4.01,95.99
+Sin edad,M,9050,7.4,92.6,7.9,92.1
