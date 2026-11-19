@@ -21,7 +21,7 @@ taller-pandas-olimpiadas-grupo/
 ├── .gitignore              # Archivos excluidos del repositorio 
 ├── data/                   # Instrucciones de descarga de los CSV 
 ├── notebooks/              # Notebooks de Jupyter con el análisis exploratorio completo
-├── src/                    # Scripts en Python para el procesamiento de datos
+├── src/                    # Scripts de Python con funciones de carga, limpieza y graficos
 ├── outputs/                # Resultados generados por el código
 │   ├── tablas/             # Resúmenes y conteos en formato CSV
 │   └── graficos/           # Gráficas del análisis
